@@ -1,0 +1,15 @@
+E:\学习Demo\ASP.NET\QueueLib\RabbitMQ.Client\bin\Debug\MyRabbitMQ.Lib.dll
+E:\学习Demo\ASP.NET\QueueLib\RabbitMQ.Client\bin\Debug\MyRabbitMQ.Lib.pdb
+E:\学习Demo\ASP.NET\QueueLib\RabbitMQ.Client\bin\Debug\RabbitMQ.Client.dll
+E:\学习Demo\ASP.NET\QueueLib\RabbitMQ.Client\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\学习Demo\ASP.NET\QueueLib\RabbitMQ.Client\obj\Debug\MyRabbitMQ.Lib.dll
+E:\学习Demo\ASP.NET\QueueLib\RabbitMQ.Client\obj\Debug\MyRabbitMQ.Lib.pdb
+E:\学习Demo\ASP.NET\QueueLib\RabbitMQ.Client\bin\Debug\Newtonsoft.Json.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\bin\Debug\MyRabbitMQ.Lib.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\bin\Debug\MyRabbitMQ.Lib.pdb
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\bin\Debug\Newtonsoft.Json.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\bin\Debug\RabbitMQ.Client.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\obj\Debug\MyRabbitMQ.Lib.csprojResolveAssemblyReference.cache
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\obj\Debug\MyRabbitMQ.Lib.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\RabbitMQ.Client\obj\Debug\MyRabbitMQ.Lib.pdb

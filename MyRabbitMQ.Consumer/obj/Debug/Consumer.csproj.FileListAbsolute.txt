@@ -1,0 +1,10 @@
+E:\学习Demo\ASP.NET\QueueLib\Consumer\bin\Debug\Consumer.exe.config
+E:\学习Demo\ASP.NET\QueueLib\Consumer\bin\Debug\Consumer.exe
+E:\学习Demo\ASP.NET\QueueLib\Consumer\bin\Debug\Consumer.pdb
+E:\学习Demo\ASP.NET\QueueLib\Consumer\obj\Debug\Consumer.exe
+E:\学习Demo\ASP.NET\QueueLib\Consumer\obj\Debug\Consumer.pdb
+E:\学习Demo\ASP.NET\QueueLib\Consumer\bin\Debug\Newtonsoft.Json.dll
+E:\学习Demo\ASP.NET\QueueLib\Consumer\bin\Debug\RabbitMQ.Client.dll
+E:\学习Demo\ASP.NET\QueueLib\Consumer\obj\Debug\Consumer.csprojResolveAssemblyReference.cache
+E:\学习Demo\ASP.NET\QueueLib\Consumer\bin\Debug\MyRabbitMQ.Lib.dll
+E:\学习Demo\ASP.NET\QueueLib\Consumer\bin\Debug\MyRabbitMQ.Lib.pdb

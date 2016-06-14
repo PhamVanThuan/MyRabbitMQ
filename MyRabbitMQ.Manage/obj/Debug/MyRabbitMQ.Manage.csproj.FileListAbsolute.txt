@@ -1,0 +1,14 @@
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\MyRabbitMQ.Manage.exe.config
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\MyRabbitMQ.Manage.exe
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\MyRabbitMQ.Manage.pdb
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\obj\Debug\MyRabbitMQ.Manage.Form1.resources
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\obj\Debug\MyRabbitMQ.Manage.Properties.Resources.resources
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\obj\Debug\MyRabbitMQ.Manage.csproj.GenerateResource.Cache
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\obj\Debug\MyRabbitMQ.Manage.exe
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\obj\Debug\MyRabbitMQ.Manage.pdb
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\MyRabbitMQ.Lib.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\Newtonsoft.Json.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\RabbitMQ.Client.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\bin\Debug\MyRabbitMQ.Lib.pdb
+E:\学习Demo\ASP.NET\MyRabbitMQ\MyRabbitMQ.Manage\obj\Debug\MyRabbitMQ.Manage.csprojResolveAssemblyReference.cache

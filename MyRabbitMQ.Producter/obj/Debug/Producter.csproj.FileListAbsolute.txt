@@ -1,0 +1,11 @@
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\Producter.exe.config
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\Producter.exe
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\Producter.pdb
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\RabbitMQ.Client.dll
+E:\学习Demo\ASP.NET\QueueLib\Producter\obj\Debug\Producter.exe
+E:\学习Demo\ASP.NET\QueueLib\Producter\obj\Debug\Producter.pdb
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\Newtonsoft.Json.dll
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\RabbitMQ.ServiceModel.dll
+E:\学习Demo\ASP.NET\QueueLib\Producter\obj\Debug\Producter.csprojResolveAssemblyReference.cache
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\MyRabbitMQ.Lib.dll
+E:\学习Demo\ASP.NET\QueueLib\Producter\bin\Debug\MyRabbitMQ.Lib.pdb
